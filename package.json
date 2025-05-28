@@ -1,0 +1,15 @@
+{
+  "name": "websocket-demo",
+  "version": "1.0.0",
+  "description": "creating websocket server using nodejs and using browser console for client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "websocket": "^1.0.35"
+  }
+}
